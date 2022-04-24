@@ -6,7 +6,7 @@
 
 
 ## Introduction:
-  Intro of the project
+In line with the vision of our Prime Minister Mr. Narendra Modi, we code harpers are calling for "vocal pe local". We are pleased to announce that we are targeting small artists who don't get the attention that big artists and art galleries receive, although anybody with a good piece of art can inspire their clients through the platform. The vision is there will eventually be a time when no artist with their work will be left out. We will allow artists to upload their paintings and will provide a platform for their work to make money from home.
   
 ## Demo Video Link:
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
@@ -18,19 +18,19 @@
 ## Table of Contents:
 
 ## Technology Stack:
-  1) Flutter
-  2) Google Collab
-  3) JavaFX
-  4) Machine Learning
+  1) Node
+  2) Express
+  3) MongoDB
+  4) EJS
   
 
 ## Contributors:
 
-Team Name: NP Devs
+Team Name: Code Harpers
 
-* [Nishchal Siddharth Pandey](https://github.com/nisiddharth)
-* [Ashutosh Chitranshi](https://github.com/ashu12chi)
-* [Anushka Srivastava](https://github.com/Anushkaa-Srivastava)
+* [Asmit mohan](https://github.com/Asmit-Mohan)
+* [Ritvik Raj](https://github.com/ashu12chi)
+* [Krishanu dev](https://github.com/kd1995-max)
 
 
 ### Made at:
